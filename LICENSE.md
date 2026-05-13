@@ -1,4 +1,4 @@
-# 
+# Enhance 1Password for macOS with 1Password for macOS rare Addon: secure-notes & credit-card-storage, the #1 addon. Includes secure-notes and credit-card-storage for a safer macOS
 
 
 
